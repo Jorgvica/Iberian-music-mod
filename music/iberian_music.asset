@@ -1,0 +1,16 @@
+music = {
+	name = "spa_cara_al_sol"
+	file = "spa_cara_al_sol.ogg"
+}
+music = {
+	name = "spr_himno_de_riego"
+	file = "spr_himno_de_riego.ogg"
+}
+music = {
+	name = "spc_marcha_de_oriamendi"
+	file = "spc_marcha_de_oriamendi.ogg"
+}
+music = {
+	name = "spr_anarchist_a_las_barricadas"
+	file = "spr_anarchist_a_las_barricadas.ogg"
+}

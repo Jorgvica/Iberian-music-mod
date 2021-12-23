@@ -1,0 +1,33 @@
+music_station = "iberian_station"
+music = {
+	song = "spr_himno_de_riego"
+	chance = {
+		modifier = {
+		factor = 2	
+		}
+	}
+}
+music = {
+	song = "spa_cara_al_sol"
+	chance = {
+		modifier = {
+			factor = 2	
+		}
+	}
+}
+music = {
+	song = "spc_marcha_de_orimendi"
+	chance = {
+		modifier = {
+			factor = 2	
+		}
+	}
+}
+music = {
+	song = "spr_anarchist_a_las_barricadas"
+	chance = {
+		modifier = {
+			factor = 2	
+		}
+	}
+}
