@@ -16,7 +16,7 @@ music = {
 	}
 }
 music = {
-	song = "spc_marcha_de_orimendi"
+	song = "spc_marcha_de_oriamendi"
 	chance = {
 		modifier = {
 			factor = 2	
