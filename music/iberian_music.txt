@@ -39,3 +39,11 @@ music = {
 		}
 	}
 }
+music = {
+	song = "por_a_portuguesa.ogg"
+	chance = {
+		modifier = {
+			factor = 2	
+		}
+	}
+}
