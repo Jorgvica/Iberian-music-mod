@@ -22,3 +22,7 @@ music = {
 	name = "por_a_portuguesa"
 	file = "por_a_portuguesa.ogg"
 }
+music = {
+	name = "spc_himno_de_los_tercios"
+	file = "spc_himno_de_los_tercios.ogg"
+}

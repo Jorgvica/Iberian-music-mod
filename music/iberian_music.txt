@@ -47,3 +47,11 @@ music = {
 		}
 	}
 }
+music = {
+	song = "spc_himno_de_los_tercios.ogg"
+	chance = {
+		modifier = {
+			factor = 2	
+		}
+	}
+}
