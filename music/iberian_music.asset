@@ -14,3 +14,7 @@ music = {
 	name = "spr_anarchist_a_las_barricadas"
 	file = "spr_anarchist_a_las_barricadas.ogg"
 }
+music = {
+	name = "cat_la_santa_espina"
+	file = "cat_la_santa_espina.ogg"
+}

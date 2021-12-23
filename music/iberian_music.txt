@@ -31,3 +31,11 @@ music = {
 		}
 	}
 }
+music = {
+	song = "cat_la_santa_espina"
+	chance = {
+		modifier = {
+			factor = 2	
+		}
+	}
+}
