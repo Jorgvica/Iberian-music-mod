@@ -40,7 +40,7 @@ music = {
 	}
 }
 music = {
-	song = "por_a_portuguesa.ogg"
+	song = "por_a_portuguesa"
 	chance = {
 		modifier = {
 			factor = 2	
@@ -48,7 +48,7 @@ music = {
 	}
 }
 music = {
-	song = "spc_himno_de_los_tercios.ogg"
+	song = "spc_himno_de_los_tercios"
 	chance = {
 		modifier = {
 			factor = 2	
